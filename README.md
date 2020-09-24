@@ -7,3 +7,7 @@
 ## Exercise 2
 ### Several exercises about conditions in Javascript
 [See exercises's instructions](https://docs.google.com/document/d/1xljm0tk6Rg-_RGLxOKg0_U1AJbSzenH34xFLmd-Xbh0)
+
+## Exercise 3
+### Several exercises about loops in Javascript
+[See exercises's instructions](https://docs.google.com/document/d/1fLe5zt5vMHRXe3h6fUNsKzvXCIVgq_WIUis3XX94T88)
